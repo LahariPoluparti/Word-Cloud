@@ -5,3 +5,5 @@ The main file runs on a jupyter notebook where you can insert a text file with t
 
 For instance, words like and, of, or etc will not be displayed as I will be filtering them out.
 
+The text file provided in the repository, is just an example of how I used it. The text file can be replaced with any text!
+
